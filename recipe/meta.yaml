@@ -1,4 +1,4 @@
-{% set version = "1.0.2" %}
+{% set version = "1.0.4" %}
 
 package:
   name: mgwr
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/m/mgwr/mgwr-{{ version }}.tar.gz
-  sha256: 74692adedc86ddb5d26355e95e99bd23f78e4957506e2fb012258c72cce7dd1d
+  sha256: 3dbda76e9246398666f708d9245b662a40bb524edc969e4cf715f7f988d1551d
 
 build:
   number: 0
